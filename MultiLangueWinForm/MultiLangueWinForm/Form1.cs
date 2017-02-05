@@ -21,7 +21,7 @@
     /// <summary>
     /// User controls's Collection
     /// </summary>
-    private readonly List<UserControl> userControls;
+    private readonly List<UserControl> _userControls;
 
     #endregion
 
@@ -39,7 +39,7 @@
 
       parameter.View.Dock = DockStyle.Fill;
       home.View.Dock = DockStyle.Fill;
-      this.userControls = new List<UserControl> { parameter.View, home.View };
+      this._userControls = new List<UserControl> { parameter.View, home.View };
 
       // Charge la vue par defaut => home
       this.PnlModule.Controls.Add(home.View);
@@ -69,9 +69,12 @@
     /// <param name="e">The <see cref="System.EventArgs"/> instance containing the event data.</param>
     private void ShowView(object sender, System.EventArgs e)
     {
-      this.userControls.ForEach(u => this.PnlModule.Controls.Remove(u));
+      this._userControls.ForEach(u 
+          => this.PnlModule.Controls.Remove(u));
 
-      var view = this.userControls.First(u => u.Name.Contains(((Button)sender).Name.Replace("Btn", string.Empty)));
+      var view = this._userControls.First(
+          u => u.Name.Contains(((Button)sender)
+              .Name.Replace("Btn", string.Empty)));
 
       this.PnlModule.Controls.Add(view);
     }

@@ -7,3 +7,12 @@ D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.View
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.csproj.GenerateResource.Cache
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.dll
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\bin\Debug\Parameter.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\bin\Debug\Parameter.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\bin\Debug\Commun.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\bin\Debug\Commun.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\obj\Debug\Parameter.csprojResolveAssemblyReference.cache
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\obj\Debug\Parameter.View.ParameterView.resources
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\obj\Debug\Parameter.csproj.GenerateResource.Cache
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\obj\Debug\Parameter.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Parameter\obj\Debug\Parameter.pdb

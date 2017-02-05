@@ -35,6 +35,8 @@
     private void InitBtn(string lang)
     {
       this.LblFemme.Text = ParameterManager.GetLanguage(AllLabels.GetLabelNane(LabelName.LblFemme), lang);
+      this.LblMessage.Text = ParameterManager.GetLanguage(AllLabels.GetLabelNane(LabelName.LblMessage), lang);
+
       this.BtnAnnuler.Text = ParameterManager.GetLanguage(AllBtn.GetBtnName(BntName.BtnAnnuler), lang);
     }
 

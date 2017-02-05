@@ -8,16 +8,16 @@
     /// <summary>
     /// Gets the french language.
     /// </summary>
-    public static string Fr => "Fr";
+    public static string Fr = "Fr";
 
     /// <summary>
     /// Gets the english language.
     /// </summary>
-    public static string Ang => "Ang";
+    public static string Ang = "Ang";
 
     /// <summary>
     /// Gets key value.
     /// </summary>
-    public static string Key => "key";
+    public static string Key = "key";
   }
 }

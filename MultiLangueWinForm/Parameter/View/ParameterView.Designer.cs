@@ -28,35 +28,35 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.BtnChangeLang = new System.Windows.Forms.Button();
-      this.SuspendLayout();
-      // 
-      // BtnChangeLang
-      // 
-      this.BtnChangeLang.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-      this.BtnChangeLang.Location = new System.Drawing.Point(114, 120);
-      this.BtnChangeLang.Name = "BtnChangeLang";
-      this.BtnChangeLang.Size = new System.Drawing.Size(213, 93);
-      this.BtnChangeLang.TabIndex = 0;
-      this.BtnChangeLang.Text = "Langue";
-      this.BtnChangeLang.UseVisualStyleBackColor = true;
-      this.BtnChangeLang.Click += new System.EventHandler(this.BtnChangeLangClick);
-      // 
-      // ParameterView
-      // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-      this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.BackColor = System.Drawing.SystemColors.Highlight;
-      this.Controls.Add(this.BtnChangeLang);
-      this.Name = "ParameterView";
-      this.Size = new System.Drawing.Size(426, 351);
-      this.ResumeLayout(false);
+            this.CbLang = new System.Windows.Forms.ComboBox();
+            this.SuspendLayout();
+            // 
+            // CbLang
+            // 
+            this.CbLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.CbLang.FormattingEnabled = true;
+            this.CbLang.Items.AddRange(new object[] {
+            "Français",
+            "English"});
+            this.CbLang.Location = new System.Drawing.Point(17, 14);
+            this.CbLang.Name = "CbLang";
+            this.CbLang.Size = new System.Drawing.Size(109, 21);
+            this.CbLang.TabIndex = 1;
+            this.CbLang.SelectedIndexChanged += new System.EventHandler(this.CbLang_SelectedIndexChanged);
+            // 
+            // ParameterView
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.Controls.Add(this.CbLang);
+            this.Name = "ParameterView";
+            this.Size = new System.Drawing.Size(426, 351);
+            this.ResumeLayout(false);
 
     }
 
     #endregion
-
-    private System.Windows.Forms.Button BtnChangeLang;
-  }
+    private System.Windows.Forms.ComboBox CbLang;
+    }
 }

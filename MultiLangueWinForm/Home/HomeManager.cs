@@ -24,9 +24,6 @@
     /// <summary>
     /// Gets or sets the view.
     /// </summary>
-    /// <value>
-    /// The view.
-    /// </value>
     public HomeView View { get; set; }
 
     #endregion

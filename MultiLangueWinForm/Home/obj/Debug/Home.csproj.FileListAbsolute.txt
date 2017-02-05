@@ -9,3 +9,14 @@ D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.View.HomeView.
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.csproj.GenerateResource.Cache
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.dll
 D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Home.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Home.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Commun.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Parameter.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Commun.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\bin\Debug\Parameter.pdb
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\obj\Debug\Home.View.HomeView.resources
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\obj\Debug\Home.dll
+E:\OnGit\Multi_Langue_Apps\MultiLangueWinForm\Home\obj\Debug\Home.pdb
