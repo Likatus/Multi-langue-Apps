@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLangMain", "MultiLangueWinForm\MultiLangMain.csproj", "{4697D78F-3826-4367-BEBB-7E893F125FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commun", "Commun\Commun.csproj", "{1C7A32CF-85C5-4543-A132-10BA605D4307}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{1A352049-6FCA-4934-8BC4-B10903787076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home", "Home\Home.csproj", "{2C0C091B-6562-4988-8E7C-CA2EC51E73D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameter", "Parameter\Parameter.csproj", "{76C44E52-BF8F-4361-B30E-156B6413AF18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Home", "Home", "{966AC694-8CCA-4D5A-9355-BEEAECFBD13D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parameter", "Parameter", "{71632D57-E372-42C8-BF6C-017D520B2554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4697D78F-3826-4367-BEBB-7E893F125FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4697D78F-3826-4367-BEBB-7E893F125FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4697D78F-3826-4367-BEBB-7E893F125FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4697D78F-3826-4367-BEBB-7E893F125FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7A32CF-85C5-4543-A132-10BA605D4307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7A32CF-85C5-4543-A132-10BA605D4307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7A32CF-85C5-4543-A132-10BA605D4307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7A32CF-85C5-4543-A132-10BA605D4307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0C091B-6562-4988-8E7C-CA2EC51E73D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0C091B-6562-4988-8E7C-CA2EC51E73D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0C091B-6562-4988-8E7C-CA2EC51E73D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0C091B-6562-4988-8E7C-CA2EC51E73D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C44E52-BF8F-4361-B30E-156B6413AF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C44E52-BF8F-4361-B30E-156B6413AF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C44E52-BF8F-4361-B30E-156B6413AF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C44E52-BF8F-4361-B30E-156B6413AF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C0C091B-6562-4988-8E7C-CA2EC51E73D5} = {966AC694-8CCA-4D5A-9355-BEEAECFBD13D}
+		{76C44E52-BF8F-4361-B30E-156B6413AF18} = {71632D57-E372-42C8-BF6C-017D520B2554}
+		{966AC694-8CCA-4D5A-9355-BEEAECFBD13D} = {1A352049-6FCA-4934-8BC4-B10903787076}
+		{71632D57-E372-42C8-BF6C-017D520B2554} = {1A352049-6FCA-4934-8BC4-B10903787076}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sogeti-barclays-e-tresorerie.visualstudio.com/
+		SccProjectUniqueName0 = Home\\Home.csproj
+		SccProjectTopLevelParentUniqueName0 = MultiLangueWinForm.sln
+		SccProjectName0 = Home
+		SccLocalPath0 = Home
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = MultiLangueWinForm\\MultiLangMain.csproj
+		SccProjectName2 = MultiLangueWinForm
+		SccLocalPath2 = MultiLangueWinForm
+		SccProjectUniqueName3 = Commun\\Commun.csproj
+		SccProjectName3 = Commun
+		SccLocalPath3 = Commun
+		SccProjectUniqueName4 = Parameter\\Parameter.csproj
+		SccProjectTopLevelParentUniqueName4 = MultiLangueWinForm.sln
+		SccProjectName4 = Parameter
+		SccLocalPath4 = Parameter
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Home.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Home.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Commun.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Parameter.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Commun.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\bin\Debug\Parameter.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.View.HomeView.resources
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Home\obj\Debug\Home.pdb

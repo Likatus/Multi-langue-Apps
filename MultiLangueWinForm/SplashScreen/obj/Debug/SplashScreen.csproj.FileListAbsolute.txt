@@ -1,0 +1,8 @@
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\bin\Debug\SplashScreen.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\bin\Debug\SplashScreen.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\SplashScreen\obj\Debug\SplashScreen.pdb

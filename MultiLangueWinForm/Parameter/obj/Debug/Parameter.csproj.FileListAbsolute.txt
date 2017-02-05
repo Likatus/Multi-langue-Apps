@@ -1,0 +1,9 @@
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\bin\Debug\Parameter.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\bin\Debug\Parameter.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\bin\Debug\Commun.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\bin\Debug\Commun.pdb
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.csprojResolveAssemblyReference.cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.View.ParameterView.resources
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.csproj.GenerateResource.Cache
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.dll
+D:\eTresorie\Projets_tiers\MultiLangueWinForm\Parameter\obj\Debug\Parameter.pdb

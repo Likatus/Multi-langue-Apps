@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Langue>
+  <Lang key="BtnHome" Fr="Accueil" Ang="Home" />
+  <Lang key="BtnParameter" Fr="Paramètre" Ang="Parameter" />
+  <Lang key="LblFemme" Fr="Femme noire" Ang="Black women" />
+  <Lang key="BtnChangeLang" Fr="Français" Ang="Anglais" />
+  <Lang key="BtnAnnuler" Fr="Annuler" Ang="Cancel" />
+</Langue>
